@@ -1,0 +1,17 @@
+E:\ZnZ\C#\Key Generator by mask\Key Generator by mask\bin\x86\Debug\Генератор ключей по маске от ZnZ.exe.config
+E:\ZnZ\C#\Key Generator by mask\Key Generator by mask\bin\x86\Debug\Генератор ключей по маске от ZnZ.exe
+E:\ZnZ\C#\Key Generator by mask\Key Generator by mask\bin\x86\Debug\Генератор ключей по маске от ZnZ.pdb
+E:\ZnZ\C#\Key Generator by mask\Key Generator by mask\obj\x86\Debug\Key Generator by mask.csprojResolveAssemblyReference.cache
+E:\ZnZ\C#\Key Generator by mask\Key Generator by mask\obj\x86\Debug\MainWindow.g.cs
+E:\ZnZ\C#\Key Generator by mask\Key Generator by mask\obj\x86\Debug\App.g.cs
+E:\ZnZ\C#\Key Generator by mask\Key Generator by mask\obj\x86\Debug\Генератор ключей по маске от ZnZ_MarkupCompile.cache
+E:\ZnZ\C#\Key Generator by mask\Key Generator by mask\obj\x86\Debug\Генератор ключей по маске от ZnZ_MarkupCompile.lref
+E:\ZnZ\C#\Key Generator by mask\Key Generator by mask\obj\x86\Debug\MainWindow.baml
+E:\ZnZ\C#\Key Generator by mask\Key Generator by mask\obj\x86\Debug\Генератор ключей по маске от ZnZ.g.resources
+E:\ZnZ\C#\Key Generator by mask\Key Generator by mask\obj\x86\Debug\Key_Generator_by_mask.Properties.Resources.resources
+E:\ZnZ\C#\Key Generator by mask\Key Generator by mask\obj\x86\Debug\Key Generator by mask.csproj.GenerateResource.Cache
+E:\ZnZ\C#\Key Generator by mask\Key Generator by mask\obj\x86\Debug\Key Generator by mask.csproj.CoreCompileInputs.cache
+E:\ZnZ\C#\Key Generator by mask\Key Generator by mask\obj\x86\Debug\Генератор ключей по маске от ZnZ.exe
+E:\ZnZ\C#\Key Generator by mask\Key Generator by mask\obj\x86\Debug\Генератор ключей по маске от ZnZ.pdb
+E:\ZnZ\C#\Key Generator by mask\Key Generator by mask\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ZnZ\C#\Key Generator by mask\Key Generator by mask\obj\x86\Debug\App.baml
